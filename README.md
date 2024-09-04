@@ -48,6 +48,9 @@ I’m a Computer Science student (Year 2/4) at the University of Ghana. My journ
 
 - [Donation Management Program](https://github.com/oswaldamoah/donations)  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=curved-square&logo=python&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=curved-square&logo=visual-studio-code&logoColor=white)
+
+- [Mobile Applications (List)](https://github.com/stars/oswaldamoah/lists/react-native)    
+  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=curved-square&logo=react&logoColor=61DAFB)
 <br /><br />
 
 
