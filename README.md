@@ -3,6 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=oswaldamoah&label=Profile%20Views&color=blue) 
 ![Followers](https://img.shields.io/github/followers/oswaldamoah?style=curved-square&label=Followers&color=blue)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oswaldamoah&hide=issues&show_icons=true&theme=holi)   
 
 
 
