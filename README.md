@@ -4,7 +4,6 @@
 ![Followers](https://img.shields.io/github/followers/oswaldamoah?style=curved-square&label=Followers&color=blue)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=oswaldamoah&hide=issues&show_icons=true&theme=holi)   
 
 
 ## 🚀 About Me
