@@ -40,10 +40,10 @@ I’m a Computer Science student (Year 2/4) at the University of Ghana. My journ
 - [Divide-&-Conquer and Greedy Algorithms Implementation Program](https://github.com/oswaldamoah/DnC-Greedy)  
   ![Java](https://img.shields.io/badge/Java-007396?style=curved-square&logo=java&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=curved-square&logo=visual-studio-code&logoColor=white)
 
-- [Website for Department of Computer Science (Frontend)](https://github.com/oswaldamoah/11046928_DCIT_205_IA)  
+- [Website for Department of Computer Science](https://github.com/oswaldamoah/11046928_DCIT_205_IA)  
   ![React](https://img.shields.io/badge/React-61DAFB?style=curved-square&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=curved-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=curved-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=curved-square&logo=javascript&logoColor=black)
 
-- [Student Grade Reporting System (Frontend)](https://github.com/oswaldamoah/UG-GradeReport/)  
+- [Student Grade Reporting System](https://github.com/oswaldamoah/UG-GradeReport/)  
   ![React](https://img.shields.io/badge/React-61DAFB?style=curved-square&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=curved-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=curved-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=curved-square&logo=javascript&logoColor=black)
 
 - [Donation Management Program](https://github.com/oswaldamoah/donations)  
