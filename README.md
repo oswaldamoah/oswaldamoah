@@ -8,12 +8,12 @@
 
 
 ## 🚀 About Me
-I’m a Computer Science student (Year 2/4) at the University of Ghana. My journey revolves around exploring impactful data fields while continuously honing my project management skills.
+I'm a Computer Science major (Year 3/4) at the University of Ghana, passionate about leveraging technology to solve real-world problems.
 
-**🔭 Currently Exploring:** 
+**🔭 Expertise:** 
 - Project Management
-- Neural Networks
-- Databases
+- Software Engineering
+- Research
 <br /><br />
 
 
