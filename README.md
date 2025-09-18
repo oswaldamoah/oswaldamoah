@@ -10,12 +10,12 @@
 ## 🚀 About Me
 I'm a Computer Science major (Year 3/4) at the University of Ghana, passionate about leveraging technology to solve real-world problems.
 
-## Portfolio
-Find my professional portfolio [**here**](http://oswaldamoah.github.io/portfolio/) 
 **🔭 Expertise:** 
 - Project Management
 - Software Engineering
 - Research
+
+📂 Find my professional portfolio [**here**](http://oswaldamoah.github.io/portfolio/) 
 <br /><br />
 
 
