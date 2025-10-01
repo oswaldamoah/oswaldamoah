@@ -8,7 +8,7 @@
 
 
 ## 🚀 About Me
-I'm a Computer Science major (Year 3/4) at the University of Ghana, passionate about leveraging technology to solve real-world problems.
+I'm a Computer Science major (Year 4/4) at the University of Ghana, passionate about leveraging technology to solve real-world problems.
 
 **🔭 Expertise:** 
 - Project Management
