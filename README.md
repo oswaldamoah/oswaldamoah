@@ -1,4 +1,4 @@
-# 🌟 Hello, I'm Oswald Amoah!
+# I'm Oswald Amoah!
 ![Student](https://img.shields.io/badge/Student%20🎓-darkblue)
 ![Profile Views](https://komarev.com/ghpvc/?username=oswaldamoah&label=Profile%20Views&color=blue) 
 ![Followers](https://img.shields.io/github/followers/oswaldamoah?style=curved-square&label=Followers&color=blue)
