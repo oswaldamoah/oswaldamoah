@@ -104,7 +104,11 @@ Computer Science major (**Year: 3.99/4**) at the University of Ghana, passionate
 
 ---
 ### 🌐 Websites
-
+![React](https://img.shields.io/badge/React-61DAFB?style=curved-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=curved-square&logo=node.js&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=curved-square&logo=database&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=curved-square&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=curved-square&logo=vercel&logoColor=white)
 * *[HomzandKidz Store](https://homzandkidz.store)*
   : E-commerce store for home and kids’ products with smooth shopping.
 
