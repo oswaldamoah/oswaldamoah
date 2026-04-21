@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 About Oswald
-Computer Science major (**GPA: 3.99/4**) at the University of Ghana, passionate about building impactful tech solutions and scalable systems.
+Computer Science major (**Year: 3.99/4**) at the University of Ghana, passionate about building impactful tech solutions and scalable systems.
 
 **🔭 Interests:**
 - Project Management
