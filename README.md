@@ -103,7 +103,26 @@ Computer Science major (**Year: 3.99/4**) at the University of Ghana, passionate
   ![Three.js](https://img.shields.io/badge/Three.js-000000?style=curved-square&logo=three.js&logoColor=white)
 
 ---
+### 🌐 Websites
 
+* *[HomzandKidz Store](https://homzandkidz.store)*
+  : E-commerce store for home and kids’ products with smooth shopping.
+
+* *[Omanye Aba Rentals & Trading](https://omanyeaba.com)*
+  : Event rental and trading platform for listings and service inquiries.
+
+* *[HaddyandMe Store](https://omanyeaba.com)*
+  : Fashion and lifestyle store with a clean, modern shopping experience.
+
+* *[Gold Coast Cooking Class](https://goldcoastcookingclass.vercel.app)*
+  : Cooking class booking platform showcasing local cuisine experiences.
+
+* *[Mindful Circle - Mental Health Space](https://mindfulcircle.vercel.app)*
+  : Mental health platform for awareness, resources, and community support.
+
+
+  
+---
 
 ### 📱 Mobile Development
 - **[Mobile Applications Collection](https://github.com/stars/oswaldamoah/lists/mobile-applications)**  
