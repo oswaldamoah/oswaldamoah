@@ -115,7 +115,7 @@ Computer Science major (**Year: 3.99/4**) at the University of Ghana, passionate
 * *[Omanye Aba Rentals & Trading](https://omanyeaba.com)*
   : Event rental and trading platform for listings and service inquiries.
 
-* *[HaddyandMe Store](https://omanyeaba.com)*
+* *[HaddyandMe Store](https://haddyandme.com)*
   : Fashion and lifestyle store with a clean, modern shopping experience.
 
 * *[Gold Coast Cooking Class](https://goldcoastcookingclass.vercel.app)*
