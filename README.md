@@ -3,9 +3,11 @@
 ![Followers](https://img.shields.io/github/followers/oswaldamoah?style=curved-square&label=Followers&color=blue)
 
 ---
-
 ## 🚀 About Oswald
-Computer Science major (**Year: 3.99/4**) at the University of Ghana, passionate about building impactful tech solutions and scalable systems.
+<img src="https://tenor.googleapis.com/v2/media?id=16945120913682879264&format=optimizedgif&client_key=tenor_web&appversion=browser-r260623-1&access_token=ya29.a0ARGnu0bzCzQcL3wWYikm5LUm5vvhl7gEDLwKCS9qmERjUpWGXL5Z248Hd5ETPbSrEjed80G51HJy-ALqfU6UCx85_2Tyn4dqsApj3Q7JHms73vWCJL4eURkRl_5h7DnTUUpsdwU9_3WjyMhe4FcPcSXJDuoEgcLJ4eQGFDYPwl8lUDImsEadYD_PRxKwV6_2tmDwlj0FjBylItNidrtKlPybdL9NMfF1y8WADNQOWk9HBxptevBd6VAc5SMn-wNIik87f746kTHM5dFQGNhoW8gtofhTaCgYKAXoSARISFQHGX2Mi2HepPkVtdDwWWvCpxgqFfA0291&key=AIzaSyCZt6SSh5VgVPzD9fhyzG1DprdPRhtoaR4" width="300" alt="Alternative text" />
+
+Computer Science major (**Year: 3.99/4**) at the University of Ghana, 
+<br> Builds scalable systems.
 
 **Interests:**
 - Project Management
