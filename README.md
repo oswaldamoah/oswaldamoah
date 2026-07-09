@@ -1,16 +1,13 @@
-![Student 🎓](https://img.shields.io/badge/Student%20🎓-darkblue)
+ ![Student 🎓](https://img.shields.io/badge/Student%20🎓-darkblue)
 ![Profile Views](https://komarev.com/ghpvc/?username=oswaldamoah&label=Profile%20Views&color=blue) 
 ![Followers](https://img.shields.io/github/followers/oswaldamoah?style=curved-square&label=Followers&color=blue)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oswaldamoah&layout=compact&theme=dark&hide_border=true)
-
 
 ---
 
 ## 🚀 About Oswald
 Computer Science major (**Year: 3.99/4**) at the University of Ghana, passionate about building impactful tech solutions and scalable systems.
 
-**🔭 Interests:**
+**Interests:**
 - Project Management
 - Software Engineering 
 - Research 
@@ -20,14 +17,14 @@ Computer Science major (**Year: 3.99/4**) at the University of Ghana, passionate
 ---
 
 ## 🏫 Education
-- 🎓 **BSc Computer Science** – University of Ghana *(Class of 2026)*
-- 🧠 **IC3 Digital Literacy Certification** (2022)
+- **BSc Computer Science** – University of Ghana *(Class of 2026)*
+- **IC3 Digital Literacy Certification** (2022)
 
 ---
 
 ## 💡 Tech Stack
 
-### 👨‍💻 Programming
+### Programming
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=curved-square&logo=javascript&logoColor=black)
 ![ASP.NET CORE (C#)](https://img.shields.io/badge/C%23-239120?style=curved-square&logo=c-sharp&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-007396?style=curved-square&logo=java&logoColor=white) 
@@ -35,22 +32,22 @@ Computer Science major (**Year: 3.99/4**) at the University of Ghana, passionate
 
 
 
-### 🌐 Frontend
+### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=curved-square&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=curved-square&logo=css3&logoColor=white) 
 ![React](https://img.shields.io/badge/React-61DAFB?style=curved-square&logo=react&logoColor=black)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=curved-square&logo=pwa&logoColor=white)
 
 
-### ⚙️ Backend
+### Backend
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=curved-square&logo=mongodb&logoColor=white) 
 ![Express](https://img.shields.io/badge/Express.js-000000?style=curved-square&logo=express&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=curved-square&logo=node.js&logoColor=white)
 
-### 📱 Mobile
+### Mobile
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=curved-square&logo=react&logoColor=61DAFB)
 
-### 🧠 Tools & Productivity
+### Tools & Productivity
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=curved-square&logo=trello&logoColor=white)
 
 ---
@@ -140,6 +137,4 @@ Computer Science major (**Year: 3.99/4**) at the University of Ghana, passionate
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' height='40'>](https://x.com/oswald_amoah)
 
 ---
-
-## ⚡ Philosophy
 ``Change is constant.``
