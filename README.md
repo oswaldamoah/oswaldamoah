@@ -18,13 +18,13 @@ Computer Science major (**Year: 3.99/4**) at the University of Ghana,
 
 ---
 
-## 🏫 Education
+## Education
 - **BSc Computer Science** – University of Ghana *(Class of 2026)*
 - **IC3 Digital Literacy Certification** (2022)
 
 ---
 
-## 💡 Tech Stack
+## Stack
 
 ### Programming
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=curved-square&logo=javascript&logoColor=black)
@@ -38,7 +38,7 @@ Computer Science major (**Year: 3.99/4**) at the University of Ghana,
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=curved-square&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=curved-square&logo=css3&logoColor=white) 
 ![React](https://img.shields.io/badge/React-61DAFB?style=curved-square&logo=react&logoColor=black)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=curved-square&logo=pwa&logoColor=white)
+![PWAs](https://img.shields.io/badge/PWA-5A0FC8?style=curved-square&logo=pwa&logoColor=white)
 
 
 ### Backend
@@ -57,21 +57,6 @@ Computer Science major (**Year: 3.99/4**) at the University of Ghana,
 ## 🎯 Featured Projects
 ---
 
-### 🏗️ Systems & Engineering
-- **[Queue Management Embedded System](https://github.com/oswaldamoah/q-mgmt)**  
-  *Hardware-software integrated queue system*  
-  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=curved-square&logo=arduino&logoColor=white)
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=curved-square&logo=c%2B%2B&logoColor=white)
-
-- **[Fibre Civil to Cable Distance Converter](https://github.com/oswaldamoah/civiltocable)**  
-  *Utility tool for telecom infrastructure calculations*  
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=curved-square&logo=html5&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=curved-square&logo=javascript&logoColor=black)
-  ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=curved-square&logo=pwa&logoColor=white)
-
-
----
-
 ### 🧠 Utility Tools
 - **[Free Plagiarism Checker](https://github.com/oswaldamoah/free-plagiarism-checker)**  
   *Lightweight plagiarism detection tool*
@@ -86,6 +71,21 @@ Computer Science major (**Year: 3.99/4**) at the University of Ghana,
   *Wellness & mental awareness platform*  
   ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=curved-square&logo=typescript&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=curved-square&logo=javascript&logoColor=black)
+
+---
+
+### 🏗️ Systems & Engineering
+- **[Queue Management Embedded System](https://github.com/oswaldamoah/q-mgmt)**  
+  *Hardware-software integrated queue system*  
+  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=curved-square&logo=arduino&logoColor=white)
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=curved-square&logo=c%2B%2B&logoColor=white)
+
+- **[Fibre Civil to Cable Distance Converter](https://github.com/oswaldamoah/civiltocable)**  
+  *Utility tool for telecom infrastructure calculations*  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=curved-square&logo=html5&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=curved-square&logo=javascript&logoColor=black)
+  ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=curved-square&logo=pwa&logoColor=white)
+
 
 ---
 
@@ -133,7 +133,7 @@ Computer Science major (**Year: 3.99/4**) at the University of Ghana,
 
 ---
 
-## 🤝 Connect With Me
+## Connect
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' height='40'>](https://www.linkedin.com/in/oswaldamoah//)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' height='40'>](https://lnk.bio/oswaldamoah)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' height='40'>](https://x.com/oswald_amoah)
