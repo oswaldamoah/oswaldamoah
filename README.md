@@ -90,6 +90,11 @@ Computer Science major (**Year: 3.99/4**) at the University of Ghana,
 ---
 
 ### 🌍 Interactive & Simulation Systems
+- **[FFIM3D](https://github.com/oswaldamoah/ffim3d/)**  
+  *Interactive 3D church model*  
+  ![React](https://img.shields.io/badge/React-61DAFB?style=curved-square&logo=react&logoColor=black)
+  ![Three.js](https://img.shields.io/badge/Three.js-000000?style=curved-square&logo=three.js&logoColor=white)
+  
 - **[GenZ Google Earth UI](https://github.com/oswaldamoah/GenZ-GoogleEarth-UI/)**  
   *Modern 3D interactive map interface inspired by Google Earth*  
   ![React](https://img.shields.io/badge/React-61DAFB?style=curved-square&logo=react&logoColor=black)
