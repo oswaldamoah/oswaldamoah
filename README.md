@@ -35,16 +35,16 @@ Computer Science major (**Year: 3.99/4**) at the University of Ghana,
 
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=curved-square&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=curved-square&logo=css3&logoColor=white) 
 ![React](https://img.shields.io/badge/React-61DAFB?style=curved-square&logo=react&logoColor=black)
 ![PWAs](https://img.shields.io/badge/PWA-5A0FC8?style=curved-square&logo=pwa&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=curved-square&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=curved-square&logo=css3&logoColor=white) 
 
 
 ### Backend
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=curved-square&logo=mongodb&logoColor=white) 
-![Express](https://img.shields.io/badge/Express.js-000000?style=curved-square&logo=express&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=curved-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=curved-square&logo=express&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=curved-square&logo=mongodb&logoColor=white) 
 
 ### Mobile
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=curved-square&logo=react&logoColor=61DAFB)
