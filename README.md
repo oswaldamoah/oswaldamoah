@@ -3,7 +3,7 @@
 # Oswald Amoah                 
 
 ### *I depend on an ancient Ghanaian art - [<ins>'settings'</ins>](https://www.pulse.com.gh/story/settings-the-art-of-packaging-life-in-ghana-2024072413294175468) - to solve problems.*
-<img src="https://media1.tenor.com/m/6ykpsSAcUyAAAAAd/azonto-ghost.gif" width="260" alt="" />
+<img src="https://media1.tenor.com/m/6ykpsSAcUyAAAAAd/azonto-ghost.gif" width="160" alt="" />
 </div>
 
 ## About
