@@ -8,13 +8,9 @@
 
 ## About
 **Interests:** Project Management ·  *[<ins>settings</ins>](https://www.pulse.com.gh/story/settings-the-art-of-packaging-life-in-ghana-2024072413294175468)* ·  Software Engineering · Research <br>
-**Built sweet stuff with `MTN, EMET Australia, Haddy&Me, OmanyeAba, UG-DCS` et al.** <br>
+**Collaborated with `MTN, EMET Australia, Haddy&Me, OmanyeAba, UG-DCS` et al.** <br>
 
 Portfolio: [oswaldamoah.github.io/portfolio](http://oswaldamoah.github.io/portfolio/)
-
-**Education**
-- BSc. Computer Science, University of Ghana (2026)
-- IC3 Digital Literacy Certification (2022)
 
 ---
 
@@ -109,8 +105,14 @@ Portfolio: [oswaldamoah.github.io/portfolio](http://oswaldamoah.github.io/portfo
 ---
 
 ## Mobile Development
+
 **[Mobile Applications Collection](https://github.com/stars/oswaldamoah/lists/mobile-applications)** — React Native apps and experiments
+
 ---
+
+## Education
+- BSc. Computer Science, University of Ghana (2026)
+- IC3 Digital Literacy Certification (2022)
 
 ## Connect
 
