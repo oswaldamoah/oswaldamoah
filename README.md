@@ -48,7 +48,7 @@ Portfolio: [oswaldamoah.github.io/portfolio](http://oswaldamoah.github.io/portfo
 ### Utility Tools
 
 - **[Free Plagiarism Checker](https://github.com/oswaldamoah/free-plagiarism-checker)** — lightweight plagiarism detection tool (Free TurnitIn alternative)
-- **[Member Management System](https://github.com/oswaldamoah/MMS)** — full-stack system for managing private organizational members
+- **[Member Management System](https://github.com/oswaldamoah/MMS)** — full-stack system for managing private organizational members (feat. [BitByBit](https://github.com/orgs/BitByBit-Devs/))
 
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -113,6 +113,7 @@ Portfolio: [oswaldamoah.github.io/portfolio](http://oswaldamoah.github.io/portfo
 ## Education
 - BSc. Computer Science, University of Ghana (2026)
 - IC3 Digital Literacy Certification (2022)
+
 
 ## Connect
 
